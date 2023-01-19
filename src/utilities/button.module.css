@@ -1,0 +1,12 @@
+.btn:hover{
+    color: white;
+    background-color: rgb(165, 4, 4) !important;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.btn {
+    background-color: rgba(249,115,22,0.9);
+    padding: 0.5rem 2rem;
+    transition:  all .3s ease-in-out;
+}

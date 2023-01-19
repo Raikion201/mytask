@@ -1,0 +1,14 @@
+.info:hover {
+    color: orange;
+    transition: all .4s ease-in-out;
+}
+
+.icon{
+        background: linear-gradient(270deg,#f97316 65%,#d31313 34%) 100%;
+        background-size: 300% 100%;
+        transition: all .5s ease;
+
+}
+.icon:hover{
+        background-position: 0;
+}
